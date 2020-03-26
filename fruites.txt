@@ -5,3 +5,4 @@ dragon fruit
 applegitd
 kiwi
 grape
+pear
